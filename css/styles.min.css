@@ -363,6 +363,10 @@ header {
   box-sizing: border-box;
   overflow-x: hidden; }
 
+@font-face {
+  font-family: a_StamperRg;
+  src: url("a_StamperRg.ttf"); }
+
 #myBtn {
   background-color: rgba(0, 0, 0, 0.8);
   color: white;
