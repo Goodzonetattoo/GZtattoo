@@ -24,7 +24,7 @@
   pointer-events: none !important; }
 
 .nav-toggle {
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -107,7 +107,7 @@ header {
     width: auto; } }
 
 .nav-collapse a {
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   border-top: 1px solid white;
   text-decoration: none;
   background: white;
@@ -136,7 +136,7 @@ header {
       display: none; } }
 
 .logo {
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   text-decoration: none;
   line-height: 50px;
   padding: 10px 10px 0 10px;
@@ -278,7 +278,7 @@ header {
   float: right;
   font-size: 28px;
   font-weight: bold;
-  font-family: 'Playfair Display', serif; }
+  font-family: 'Rubber Stamp W01', serif; }
   @media screen and (min-width: 720px) {
     .close {
       display: none; } }
@@ -373,11 +373,11 @@ body {
   margin: 0;
   padding: 0;
   color: #fff;
-  font-family: 'Lato', sans-serif; }
+  font-family: 'a_StamperRg'; }
   body h1 {
     font-size: 6em;
     letter-spacing: .2em;
-    font-family: 'Playfair Display', serif;
+    font-family: 'a_StamperRg';
     padding: 0;
     margin: 0;
     color: #fff;
